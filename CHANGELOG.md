@@ -1,4 +1,4 @@
-Unreleased 0.9.3
+0.9.3
 ---
 
 Features
